@@ -1,0 +1,10 @@
+
+.parent{
+    height: 100%;
+    width:  100%;
+    background-position: center;
+    background-image: linear-gradient((rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(light.jpg));
+    background-size: cover;
+    position: absolute;
+
+}
